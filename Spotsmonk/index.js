@@ -3,6 +3,7 @@ import ExcelJS from "exceljs";
 import 'dotenv/config';
 import cliProgress from "cli-progress";
 
+
 const API_TOKEN = process.env.API_TOKEN;
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -10,6 +11,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 const getSeasonDetails = async () => {
   const res = await axios.get(`https://cricket.sportmonks.com/api/v2.0/leagues?api_token=${API_TOKEN}`);
   const data = res.data.data.filter(item => item.code === 'IPL');
+  console.log(data);
   return {
     name: data[0].name,
     season_id: data[0].season_id,
@@ -20,6 +22,9 @@ const getSeasonDetails = async () => {
 const getTeamsDetails = async (teamName) => {
   if (!teamName) throw 'Team name is required';
   const encodedTeamName = encodeURIComponent(teamName);
+  console.log(`\n`);
+  console.log(`${encodedTeamName}`);
+  console.log(`\n`);
   const res = await axios.get(`https://cricket.sportmonks.com/api/v2.0/teams?api_token=${API_TOKEN}&filter[name]=${encodedTeamName}`);
   return res.data.data[0].id;
 };
@@ -35,40 +40,51 @@ const getPlayerDetails = async (playerId) => {
 };
 
 const calculateCredit = (career) => {
-    let credit = 0;
-    if (career.batting && career.bowling) {
-      credit = (calculateBatterCredit(career.batting) + calculateBowlerCredit(career.bowling)) / 2;
-    } else if (career.batting) {
-      credit = calculateBatterCredit(career.batting);
-    } else if (career.bowling) {
-      credit = calculateBowlerCredit(career.bowling);
-    }
-  
-    // Normalize credit to 0-10 scale
-    const maxPossibleCredit = 10; // you can tune this if needed
-    const scaledCredit = Math.min((credit / 10) * maxPossibleCredit, 10); // cap at 10
-    return scaledCredit.toFixed(1);
-  };
-  
+  let credit = 0;
+
+  if (career.batting && career.bowling) {
+    credit = (calculateBatterCredit(career.batting) + calculateBowlerCredit(career.bowling)) / 2;
+  } else if (career.batting) {
+    credit = calculateBatterCredit(career.batting);
+  } else if (career.bowling) {
+    credit = calculateBowlerCredit(career.bowling);
+  }
+
+  return credit.toFixed(1);
+};
 
 const calculateBatterCredit = (batting) => {
-  const runsPerMatch = batting.runs_scored / batting.matches;
-  const strikeRate = batting.strike_rate / 100;
-  const average = batting.average / 50;
-  const milestoneBonus = (batting.fifties >= 2 ? 2 : (batting.fifties >= 1 ? 1 : 0));
-  return (3 * runsPerMatch) + (2 * strikeRate) + (3 * average) + milestoneBonus;
+  if (!batting || batting.matches === 0) return 5; // Safe guard
+  
+  const idealRuns = 300;
+  const idealStrikeRate = 150;
+
+  const runsScore = (batting.runs_scored / idealRuns) * 50;
+  const strikeRateScore = (batting.strike_rate / idealStrikeRate) * 50;
+
+  const battingScorePercentage = runsScore + strikeRateScore;
+
+  const credit = 5 + (battingScorePercentage / 100) * 5;
+
+  return Math.min(Math.max(credit, 5), 10);
 };
 
 const calculateBowlerCredit = (bowling) => {
-  const wicketsPerMatch = bowling.wickets / bowling.matches;
-  const idealEconRate = 7;
-  const econRateScore = bowling.econ_rate > 0 ? (idealEconRate / bowling.econ_rate) : 0;
-  const idealAvg = 20;
-  const avgScore = bowling.average > 0 ? (idealAvg / bowling.average) : 0;
-  const milestoneBonus = (bowling.four_wickets ? 1 : 0) + (bowling.five_wickets ? 2 : 0);
-  const penalty = (bowling.wide + bowling.noball) / bowling.overs * 0.5;
-  return (4 * wicketsPerMatch) + (2 * econRateScore) + (2 * avgScore) + milestoneBonus - penalty;
+  if (!bowling || bowling.matches === 0) return 5; // Safe guard
+
+  const idealWickets = 10;
+  const idealEconomy = 6;
+
+  const wicketsScore = (bowling.wickets / idealWickets) * 60;
+  const economyScore = (idealEconomy / bowling.econ_rate) * 40;
+
+  const bowlingScorePercentage = wicketsScore + economyScore;
+
+  const credit = 5 + (bowlingScorePercentage / 100) * 5;
+
+  return Math.min(Math.max(credit, 5), 10);
 };
+
 
 const writeToExcel = async (playerData) => {
   const workbook = new ExcelJS.Workbook();
@@ -86,8 +102,14 @@ const writeToExcel = async (playerData) => {
 };
 
 const testAllTeams = async () => {
-    const season = await getSeasonDetails();
-    console.log(`🏏 Season: ${season.name} (ID: ${season.season_id})`);
+    // const season = await getSeasonDetails();
+    // console.log(`🏏 Season: ${season.name} (ID: ${season.season_id})`);
+
+    const season = {
+      name : 'Indian perimum leagure',
+      code : 'IPL',
+      season_id : 1689
+    }
 
     const teamNames = [
         "Chennai Super Kings", "Delhi Capitals", "Punjab Kings", "Kolkata Knight Riders",
@@ -152,7 +174,7 @@ const testAllTeams = async () => {
     await writeToExcel(allPlayerData);
 };
 
-// Run the function to test for all teams and players
+// Run the function to x`test for all teams and players
 testAllTeams();
 
   

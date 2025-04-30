@@ -1,0 +1,228 @@
+Player Name,Player Role,Is Over Sea,Image URL,Batting Year,Batting Matches,Not Outs,Runs,High Score,Batting Average,Balls Faced,Batting Strike Rate,Centuries,Half Centuries,Fours,Sixes,Catches,Stumpings,Bowling Year,Bowling Matches,Balls Bowled,Runs Conceded,Wickets,Best Bowling,Bowling Average,Economy,Bowling Strike Rate,4 Wicket Hauls,5 Wicket Hauls,Credit
+MS DHONI,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/57.png,2025,9,4,140,30*,28.00,98,142.86,0,0,11,8,3,4,2025,9,0,0,0,-,-,-,-,0,0,8.5
+DEWALD BREVIS,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/797.png,2025,1,0,42,42,42.00,25,168.00,0,0,1,4,0,0,2025,1,0,0,0,-,-,-,-,0,0,7
+DEVON CONWAY,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/601.png,2025,3,0,94,69,31.33,74,127.03,0,1,9,2,1,0,2025,3,0,0,0,-,-,-,-,0,0,8.5
+RAHUL TRIPATHI,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/188.png,2025,5,0,55,23,11.00,57,96.49,0,0,6,1,1,0,2025,5,0,0,0,-,-,-,-,0,0,8
+SHAIK RASHEED,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/778.png,2025,3,0,46,27,15.33,40,115.00,0,0,7,0,1,0,2025,3,0,0,0,-,-,-,-,0,0,7
+VANSH BEDI,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3558.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+ANDRE SIDDARTH,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3157.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+AYUSH MHATRE,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3497.png,2025,2,0,62,32,31.00,34,182.35,0,0,10,2,2,0,2025,2,0,0,0,-,-,-,-,0,0,7
+RACHIN RAVINDRA,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/724.png,2025,8,1,191,65*,27.29,149,128.19,0,1,18,4,2,0,2025,8,0,0,0,-,-,-,-,0,0,9
+RAVICHANDRAN ASHWIN,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/45.png,2025,7,0,12,11,6.00,15,80.00,0,0,1,0,4,0,2025,7,144,223,5,2w48,44.60,9.29,28.80,0,0,9
+VIJAY SHANKAR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/61.png,2025,6,2,118,69*,39.33,91,129.67,0,1,8,3,2,0,2025,6,0,0,0,-,-,-,-,0,0,7.5
+SAM CURRAN,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/138.png,2025,3,0,21,9,7.00,32,65.63,0,0,1,0,2,0,2025,3,36,72,0,0w13,-,12.00,-,0,0,9
+ANSHUL KAMBOJ,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3106.png,2025,3,1,5,3*,5.00,7,71.43,0,0,0,0,0,0,2025,3,48,55,3,1w16,18.33,6.88,16.00,0,0,7
+DEEPAK HOODA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/215.png,2025,4,0,29,22,7.25,39,74.36,0,0,2,1,3,0,2025,4,0,0,0,-,-,-,-,0,0,7.5
+JAMIE OVERTON,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1216.png,2025,3,2,15,11*,-,7,214.29,0,0,1,1,0,0,2025,3,36,83,0,0w24,-,13.83,-,0,0,7.5
+KAMLESH NAGARKOTI,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/146.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+RAMAKRISHNA GHOSH,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3559.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+RAVINDRA JADEJA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/46.png,2025,9,3,166,53*,27.67,132,125.76,0,1,10,6,3,0,2025,9,137,188,6,2w24,31.33,8.23,22.83,0,0,10
+SHIVAM DUBE,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/211.png,2025,9,2,242,50,34.57,181,133.70,0,1,17,13,2,0,2025,9,0,0,0,-,-,-,-,0,0,9.5
+KHALEEL AHMED,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/8.png,2025,9,1,1,1*,-,2,50.00,0,0,0,0,0,0,2025,9,192,288,12,3w29,24.00,9.00,16.00,0,0,8
+NOOR AHMAD,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/975.png,2025,9,1,3,2,1.50,13,23.08,0,0,0,0,0,0,2025,9,186,249,14,4w18,17.79,8.03,13.29,1,0,8.5
+MUKESH CHOUDHARY,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/970.png,2025,2,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,2,36,71,1,1w21,71.00,11.83,36.00,0,0,8
+NATHAN ELLIS,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/633.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,24,38,1,1w38,38.00,9.50,24.00,0,0,8
+SHREYAS GOPAL,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/192.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+MATHEESHA PATHIRANA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1014.png,2025,7,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,7,148,253,7,2w28,36.14,10.26,21.14,0,0,9
+KL RAHUL,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/19.png,2025,8,3,355,93*,71.00,240,147.92,0,3,28,16,3,0,2025,8,0,0,0,-,-,-,-,0,0,10
+JAKE FRASER-MCGURK,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/3115.png,2025,6,0,55,38,9.17,52,105.77,0,0,7,2,3,0,2025,6,0,0,0,-,-,-,-,0,0,8.5
+KARUN NAIR,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/131.png,2025,5,0,139,89,27.80,74,187.84,0,1,17,8,0,0,2025,5,0,0,0,-,-,-,-,0,0,8
+FAF DU PLESSIS,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/94.png,2025,4,0,103,50,25.75,78,132.05,0,1,8,5,3,0,2025,4,0,0,0,-,-,-,-,0,0,8.5
+DONOVAN FERREIRA,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/2033.png,2025,1,0,1,1,1.00,3,33.33,0,0,0,0,0,0,2025,1,0,0,0,-,-,-,-,0,0,8
+ABISHEK POREL,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1580.png,2025,9,1,253,51,31.63,165,153.33,0,1,25,9,1,0,2025,9,0,0,0,-,-,-,-,0,0,8.5
+TRISTAN STUBBS,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1017.png,2025,9,5,184,38*,61.33,115,160.00,0,0,14,8,7,0,2025,9,12,40,0,0w12,-,20.00,-,0,0,9
+AXAR PATEL,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/110.png,2025,9,1,189,39,27.00,121,156.20,0,0,16,11,4,0,2025,9,138,207,1,1w23,207.00,9.00,138.00,0,0,10
+SAMEER RIZVI,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1229.png,2025,2,0,24,20,12.00,19,126.32,0,0,2,1,0,0,2025,2,0,0,0,-,-,-,-,0,0,7.5
+ASHUTOSH SHARMA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3109.png,2025,7,2,136,66*,45.33,76,178.95,0,1,11,8,2,0,2025,7,0,0,0,-,-,-,-,0,0,7.5
+DARSHAN NALKANDE,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/127.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+VIPRAJ NIGAM,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3560.png,2025,9,1,54,39,18.00,26,207.69,0,0,6,3,1,0,2025,9,132,203,7,2w18,29.00,9.23,18.86,0,0,7
+AJAY MANDAL,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1931.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+MANVANTH KUMAR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3562.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+TRIPURANA VIJAY,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3563.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+MADHAV TIWARI,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3561.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+MITCHELL STARC,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/31.png,2025,9,2,5,2,5.00,8,62.50,0,0,0,0,5,0,2025,9,174,292,11,5w35,26.55,10.07,15.82,0,1,9.5
+T. NATARAJAN,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/224.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,Not Found
+MOHIT SHARMA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/100.png,2025,7,1,1,1*,1.00,3,33.33,0,0,0,0,0,0,2025,7,126,210,2,1w10,105.00,10.00,63.00,0,0,9
+MUKESH KUMAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1462.png,2025,9,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,9,156,243,9,4w33,27.00,9.35,17.33,1,0,8.5
+DUSHMANTHA CHAMEERA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/608.png,2025,2,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,2,18,25,1,1w25,25.00,8.33,18.00,0,0,7.5
+KULDEEP YADAV,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/14.png,2025,9,1,10,5,5.00,7,142.86,0,0,2,0,0,0,2025,9,192,208,12,3w22,17.33,6.50,16.00,0,0,9.5
+SHUBMAN GILL,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/62.png,2025,8,1,305,90,43.57,199,153.27,0,3,33,9,4,0,2025,8,0,0,0,-,-,-,-,0,0,10
+JOS BUTTLER,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/182.png,2025,8,3,356,97*,71.20,215,165.58,0,3,40,13,4,2,2025,8,0,0,0,-,-,-,-,0,0,10
+KUMAR KUSHAGRA,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3101.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+ANUJ RAWAT,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/534.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+SHERFANE RUTHERFORD,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/122.png,2025,8,2,201,46,40.20,129,155.81,0,0,15,13,0,0,2025,8,0,0,0,-,-,-,-,0,0,7.5
+NISHANT SINDHU,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/791.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+MAHIPAL LOMROR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/184.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+WASHINGTON SUNDAR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/20.png,2025,3,0,51,49,25.50,32,159.38,0,0,5,2,2,0,2025,3,42,64,2,1w28,32.00,9.14,21.00,0,0,8.5
+MOHD. ARSHAD KHAN,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/988.png,2025,5,2,1,1*,-,1,100.00,0,0,0,0,4,0,2025,5,66,114,3,1w17,38.00,10.36,22.00,0,0,Not Found
+SAI KISHORE,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/544.png,2025,8,0,1,1,1.00,1,100.00,0,0,0,0,4,0,2025,8,143,196,12,3w30,16.33,8.22,11.92,0,0,8
+JAYANT YADAV,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/165.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+KARIM JANAT,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/247.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+SAI SUDHARSAN,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/976.png,2025,8,0,417,82,52.13,274,152.19,0,5,42,15,5,0,2025,8,0,0,0,-,-,-,-,0,0,9.5
+DASUN SHANAKA,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/375.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+SHAHRUKH KHAN,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/590.png,2025,8,3,73,36,36.50,39,187.18,0,0,4,6,2,0,2025,8,0,0,0,-,-,-,-,0,0,8
+KAGISO RABADA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/116.png,2025,2,1,7,7*,-,5,140.00,0,0,0,1,0,0,2025,2,48,83,2,1w41,41.50,10.38,24.00,0,0,9
+MOHAMMED SIRAJ,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/63.png,2025,8,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,8,192,283,12,4w17,23.58,8.84,16.00,1,0,8.5
+PRASIDH KRISHNA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/150.png,2025,8,0,0,0,-,N/A,-,0,0,0,0,3,0,2025,8,186,226,16,4w41,14.13,7.29,11.63,1,0,8
+MANAV SUTHAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/2443.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+GERALD COETZEE,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/2535.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,8.5
+GURNOOR SINGH BRAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1231.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,Not Found
+ISHANT SHARMA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/50.png,2025,5,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,5,78,134,3,1w18,44.67,10.31,26.00,0,0,8
+KULWANT KHEJROLIYA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/204.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,1,18,29,1,1w29,29.00,9.67,18.00,0,0,7
+RAHUL TEWATIA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/120.png,2025,8,2,41,24*,10.25,20,205.00,0,0,3,4,4,0,2025,8,0,0,0,-,-,-,-,0,0,9
+RASHID KHAN,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/218.png,2025,8,1,22,12,11.00,10,220.00,0,0,1,2,3,0,2025,8,180,278,6,2w25,46.33,9.27,30.00,0,0,10.5
+AJINKYA RAHANE,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/44.png,2025,9,1,271,61,38.71,185,146.49,0,3,24,15,4,0,2025,9,0,0,0,-,-,-,-,0,0,8.5
+RINKU SINGH,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/152.png,2025,9,3,133,38*,33.25,91,146.15,0,0,14,6,3,0,2025,9,0,0,0,-,-,-,-,0,0,9
+QUINTON DE KOCK,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/170.png,2025,7,1,143,97*,23.83,104,137.50,0,1,9,11,3,0,2025,7,0,0,0,-,-,-,-,0,0,8.5
+RAHMANULLAH GURBAZ,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/641.png,2025,2,1,2,1,2.00,7,28.57,0,0,0,0,1,0,2025,2,0,0,0,-,-,-,-,0,0,8
+ANGKRISH RAGHUVANSHI,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/787.png,2025,8,2,197,50,39.40,132,149.24,0,1,21,6,1,0,2025,8,0,0,0,-,-,-,-,0,0,7.5
+ROVMAN POWELL,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/329.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,1,0,0,0,-,-,-,-,0,0,8.5
+MANISH PANDEY,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/16.png,2025,1,0,19,19,19.00,14,135.71,0,0,2,1,0,0,2025,1,0,0,0,-,-,-,-,0,0,8
+LUVNITH SISODIA,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1009.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+VENKATESH IYER,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/584.png,2025,9,0,135,60,22.50,97,139.18,0,1,14,4,4,0,2025,9,0,0,0,-,-,-,-,0,0,9.5
+ANUKUL ROY,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/160.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+MOEEN ALI,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/206.png,2025,4,0,5,5,2.50,14,35.71,0,0,0,0,2,0,2025,4,66,70,3,2w23,23.33,6.36,22.00,0,0,8
+RAMANDEEP SINGH,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/991.png,2025,8,1,30,22,7.50,26,115.38,0,0,1,2,5,0,2025,8,0,0,0,-,-,-,-,0,0,7.5
+ANDRE RUSSELL,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/141.png,2025,9,0,55,21,9.17,46,119.57,0,0,6,4,2,0,2025,9,63,128,7,2w21,18.29,12.19,9.00,0,0,10
+ANRICH NORTJE,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/142.png,2025,1,1,0,0,-,0,-,0,0,0,0,0,0,2025,1,18,23,1,1w23,23.00,7.67,18.00,0,0,8
+VAIBHAV ARORA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/583.png,2025,8,0,0,0,0.00,7,0.00,0,0,0,0,3,0,2025,8,177,274,11,3w29,24.91,9.29,16.09,0,0,8.5
+MAYANK MARKANDE,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/87.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+SPENCER JOHNSON,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/2518.png,2025,4,2,2,1*,-,4,50.00,0,0,0,0,1,0,2025,4,68,133,1,1w42,133.00,11.74,68.00,0,0,7.5
+HARSHIT RANA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1013.png,2025,9,2,23,10*,7.67,31,74.19,0,0,3,0,4,0,2025,9,174,275,11,3w25,25.00,9.48,15.82,0,0,9
+SUNIL NARINE,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/156.png,2025,8,1,151,44,21.57,86,175.58,0,0,15,12,1,0,2025,8,174,225,7,3w13,32.14,7.76,24.86,0,0,9.5
+VARUN CHAKARAVARTHY,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/140.png,2025,9,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,9,210,240,11,3w22,21.82,6.86,19.09,0,0,Not Found
+CHETAN SAKARIYA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/592.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,18,39,0,0w39,-,13.00,-,0,0,8
+RISHABH PANT,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/18.png,2025,10,0,110,63,12.22,112,98.21,0,1,9,5,4,1,2025,10,0,0,0,-,-,-,-,0,0,10.5
+DAVID MILLER,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/128.png,2025,10,6,142,27*,35.50,112,126.79,0,0,13,3,4,0,2025,10,0,0,0,-,-,-,-,0,0,8.5
+AIDEN MARKRAM,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/287.png,2025,10,0,335,66,33.50,227,147.58,0,4,30,15,6,0,2025,10,60,88,4,2w30,22.00,8.80,15.00,0,0,9.5
+ARYAN JUYAL,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/990.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+HIMMAT SINGH,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/203.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,0,0,0,-,-,-,-,0,0,7.5
+MATTHEW BREETZKE,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/2805.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,8
+NICHOLAS POORAN,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/136.png,2025,10,1,404,87*,44.89,199,203.02,0,4,33,34,7,0,2025,10,0,0,0,-,-,-,-,0,0,10
+MITCHELL MARSH,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/40.png,2025,9,0,378,81,42.00,238,158.82,0,4,36,20,1,0,2025,9,0,0,0,-,-,-,-,0,0,9
+ABDUL SAMAD,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/525.png,2025,9,3,115,30*,19.17,62,185.48,0,0,6,10,2,0,2025,9,2,6,0,0w6,-,18.00,-,0,0,8
+SHAHBAZ AHAMAD,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/523.png,2025,1,0,9,9,9.00,8,112.50,0,0,1,0,0,0,2025,1,9,22,0,0w22,-,14.67,-,0,0,Not Found
+YUVRAJ CHAUDHARY,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3564.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+RAJVARDHAN HANGARGEKAR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/783.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+ARSHIN KULKARNI,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/2788.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+AYUSH BADONI,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/985.png,2025,10,1,252,50,31.50,177,142.37,0,1,22,9,3,0,2025,10,0,0,0,-,-,-,-,0,0,8.5
+SHARDUL THAKUR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/105.png,2025,9,2,14,6,7.00,11,127.27,0,0,2,0,3,0,2025,9,180,336,12,4w34,28.00,11.20,15.00,1,0,8.5
+AVESH KHAN,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/109.png,2025,9,2,2,2*,2.00,2,100.00,0,0,0,0,2,0,2025,9,201,322,10,3w37,32.20,9.61,20.10,0,0,9
+AKASH DEEP,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1007.png,2025,4,0,0,0,0.00,1,0.00,0,0,0,0,0,0,2025,4,72,147,3,2w55,49.00,12.25,24.00,0,0,8
+M. SIDDHARTH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/532.png,2025,2,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,2,42,67,2,2w39,33.50,9.57,21.00,0,0,Not Found
+DIGVESH SINGH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3565.png,2025,10,1,1,1,1.00,3,33.33,0,0,0,0,1,0,2025,10,240,310,10,2w30,31.00,7.75,24.00,0,0,7
+AKASH SINGH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/535.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+SHAMAR JOSEPH,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/3105.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+PRINCE YADAV,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1225.png,2025,5,1,4,4*,-,9,44.44,0,0,0,0,2,0,2025,5,113,182,2,1w29,91.00,9.66,56.50,0,0,7
+MAYANK YADAV,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/987.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,24,40,2,2w40,20.00,10.00,12.00,0,0,8.5
+RAVI BISHNOI,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/520.png,2025,10,0,13,13,6.50,16,81.25,0,0,0,2,4,0,2025,10,216,375,9,2w18,41.67,10.42,24.00,0,0,10
+ROHIT SHARMA,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/6.png,2025,9,1,240,76*,30.00,153,156.86,0,2,18,17,0,0,2025,9,0,0,0,-,-,-,-,0,0,9.5
+SURYA KUMAR YADAV,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/174.png,2025,10,3,427,68*,61.00,252,169.44,0,3,42,23,2,0,2025,10,0,0,0,-,-,-,-,0,0,Not Found
+ROBIN MINZ,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3103.png,2025,2,0,6,3,3.00,15,40.00,0,0,0,0,0,0,2025,2,0,0,0,-,-,-,-,0,0,7
+RYAN RICKELTON,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/743.png,2025,10,1,273,62*,30.33,179,152.51,0,2,35,12,8,3,2025,10,0,0,0,-,-,-,-,0,0,8.5
+SHRIJITH KRISHNAN,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3570.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,Not Found
+BEVON JACOBS,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/3567.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+N. TILAK VARMA,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/993.png,2025,10,2,239,59,39.83,170,140.59,0,2,20,10,7,0,2025,10,0,0,0,-,-,-,-,0,0,Not Found
+HARDIK PANDYA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/54.png,2025,9,1,109,42,21.80,68,160.29,0,0,9,6,2,0,2025,9,156,237,12,5w36,19.75,9.12,13.00,0,1,10.5
+NAMAN DHIR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3107.png,2025,10,3,155,46,38.75,84,184.52,0,0,14,8,11,0,2025,10,18,12,0,0w12,-,4.00,-,0,0,8
+WILL JACKS,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1941.png,2025,9,1,142,36,20.29,116,122.41,0,0,12,6,5,0,2025,9,66,78,5,2w14,15.60,7.09,13.20,0,0,8.5
+MITCHELL SANTNER,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/75.png,2025,9,3,39,18*,19.50,29,134.48,0,0,2,3,5,0,2025,9,171,236,4,2w43,59.00,8.28,42.75,0,0,8.5
+RAJ ANGAD BAWA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/781.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,1,0,0,0,-,-,-,-,0,0,Not Found
+VIGNESH PUTHUR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3566.png,2025,5,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,5,72,109,6,3w32,18.17,9.08,12.00,0,0,7
+CORBIN BOSCH,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1041.png,2025,1,0,20,20,20.00,10,200.00,0,0,2,1,2,0,2025,1,24,26,1,1w26,26.00,6.50,24.00,0,0,7
+TRENT BOULT,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/66.png,2025,10,1,2,1,2.00,3,66.67,0,0,0,0,0,0,2025,10,216,308,13,4w26,23.69,8.56,16.62,1,0,9
+KARN SHARMA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/98.png,2025,3,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,3,36,61,3,3w36,20.33,10.17,12.00,0,0,8
+DEEPAK CHAHAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/91.png,2025,10,2,29,28*,29.00,17,170.59,0,0,2,2,1,0,2025,10,180,281,8,2w12,35.13,9.37,22.50,0,0,9
+ASHWANI KUMAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3569.png,2025,3,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,3,48,105,6,4w24,17.50,13.13,8.00,1,0,7
+REECE TOPLEY,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/574.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,8
+V.SATYANARAYANA PENMETSA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3568.png,2025,2,1,1,1*,-,1,100.00,0,0,0,0,1,0,2025,2,24,53,1,1w40,53.00,13.25,24.00,0,0,Not Found
+ARJUN TENDULKAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/585.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+MUJEEB-UR-RAHMAN,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/134.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,12,28,1,1w28,28.00,14.00,12.00,0,0,Not Found
+JASPRIT BUMRAH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/9.png,2025,6,1,0,0*,-,1,0.00,0,0,0,0,1,0,2025,6,144,180,9,4w22,20.00,7.50,16.00,1,0,10
+SHREYAS IYER,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/12.png,2025,9,3,288,97*,48.00,158,182.28,0,3,18,21,2,0,2025,9,0,0,0,-,-,-,-,0,0,10
+NEHAL WADHERA,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1541.png,2025,8,2,189,62,37.80,129,146.51,0,1,14,12,2,0,2025,8,5,9,0,0w9,-,10.80,-,0,0,8.5
+VISHNU VINOD,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/581.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+JOSH INGLIS,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/647.png,2025,4,1,56,29,18.67,46,121.74,0,0,6,1,3,1,2025,4,0,0,0,-,-,-,-,0,0,8
+HARNOOR PANNU,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/784.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,Not Found
+PYLA AVINASH,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3573.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+PRABHSIMRAN SINGH,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/137.png,2025,9,0,292,83,32.44,173,168.79,0,2,34,14,1,1,2025,9,0,0,0,-,-,-,-,0,0,8.5
+SHASHANK SINGH,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/191.png,2025,9,4,158,52*,52.67,123,128.46,0,1,10,6,2,0,2025,9,12,27,0,0w27,-,13.50,-,0,0,8.5
+MARCUS STOINIS,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/23.png,2025,7,2,67,34*,16.75,44,152.27,0,0,2,7,0,0,2025,7,64,123,0,0w6,-,11.53,-,0,0,9.5
+GLENN MAXWELL,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/28.png,2025,7,0,48,30,8.00,49,97.96,0,0,5,1,5,0,2025,7,78,110,4,1w5,27.50,8.46,19.50,0,0,9
+HARPREET BRAR,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/130.png,2025,3,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,3,36,52,3,2w25,17.33,8.67,12.00,0,0,8
+MARCO JANSEN,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/586.png,2025,9,3,71,34*,23.67,59,120.34,0,0,2,4,4,0,2025,9,169,257,8,3w17,32.13,9.12,21.13,0,0,9
+AZMATULLAH OMARZAI,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1354.png,2025,2,0,16,16,16.00,15,106.67,0,0,2,1,0,0,2025,2,12,29,0,0w29,-,14.50,-,0,0,8.5
+PRIYANSH ARYA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3571.png,2025,9,0,323,103,35.89,161,200.62,1,1,32,22,3,0,2025,9,0,0,0,-,-,-,-,0,0,7
+AARON HARDIE,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/2704.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+MUSHEER KHAN,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/2813.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+SURYANSH SHEDGE,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/2146.png,2025,4,0,6,4,3.00,8,75.00,0,0,0,0,1,0,2025,4,0,0,0,-,-,-,-,0,0,7.5
+ARSHDEEP SINGH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/125.png,2025,9,1,2,1,2.00,6,33.33,0,0,0,0,0,0,2025,9,174,250,11,3w43,22.73,8.62,15.82,0,0,10
+YUZVENDRA CHAHAL,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/10.png,2025,9,0,0,0,-,N/A,-,0,0,0,0,2,0,2025,9,156,242,9,4w28,26.89,9.31,17.33,1,0,9.5
+VYSHAK VIJAYKUMAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/2034.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,18,28,0,0w28,-,9.33,-,0,0,8
+YASH THAKUR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1550.png,2025,2,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,2,39,79,1,1w39,79.00,12.15,39.00,0,0,7.5
+LOCKIE FERGUSON,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/69.png,2025,4,1,4,4*,-,1,400.00,0,0,1,0,0,0,2025,4,68,104,5,2w37,20.80,9.18,13.60,0,0,7
+KULDEEP SEN,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1005.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+XAVIER BARTLETT,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/3572.png,2025,3,0,11,11,11.00,15,73.33,0,0,1,0,3,0,2025,3,54,84,2,1w26,42.00,9.33,27.00,0,0,8
+PRAVIN DUBEY,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/548.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+SANJU SAMSON,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/190.png,2025,7,1,224,66,37.33,156,143.59,0,1,23,10,2,1,2025,7,0,0,0,-,-,-,-,0,0,10
+SHUBHAM DUBEY,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3112.png,2025,6,2,59,34*,19.67,36,163.89,0,0,3,5,1,0,2025,6,0,0,0,-,-,-,-,0,0,7.5
+VAIBHAV SURYAVANSHI,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3498.png,2025,2,0,50,34,25.00,32,156.25,0,0,2,5,0,0,2025,2,0,0,0,-,-,-,-,0,0,7.5
+KUNAL RATHORE,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1540.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,Not Found
+SHIMRON HETMYER,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/210.png,2025,9,1,187,52,23.38,123,152.03,0,1,14,9,8,0,2025,9,0,0,0,-,-,-,-,0,0,8.5
+YASHASVI JAISWAL,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/533.png,2025,9,0,356,75,39.56,239,148.95,0,4,32,20,7,0,2025,9,0,0,0,-,-,-,-,0,0,10.5
+DHRUV JUREL,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1004.png,2025,9,3,238,70,39.67,158,150.63,0,1,17,14,5,0,2025,9,0,0,0,-,-,-,-,0,0,8.5
+RIYAN PARAG,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/189.png,2025,9,1,234,43*,29.25,153,152.94,0,0,16,16,5,0,2025,9,54,71,0,0w6,-,7.89,-,0,0,9.5
+NITISH RANA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/148.png,2025,9,1,204,81,25.50,121,168.60,0,2,24,9,2,0,2025,9,12,18,0,0w9,-,9.00,-,0,0,8.5
+YUDHVIR SINGH CHARAK,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/587.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,12,20,0,0w20,-,10.00,-,0,0,Not Found
+JOFRA ARCHER,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/181.png,2025,9,1,21,16,5.25,15,140.00,0,0,0,2,1,0,2025,9,201,310,9,3w25,34.44,9.25,22.33,0,0,8.5
+MAHEESH THEEKSHANA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/629.png,2025,8,2,8,5,8.00,18,44.44,0,0,0,0,0,0,2025,8,180,287,7,2w26,41.00,9.57,25.71,0,0,9
+WANINDU HASARANGA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/377.png,2025,7,0,9,4,3.00,12,75.00,0,0,0,0,2,0,2025,7,156,237,10,4w35,23.70,9.12,15.60,1,0,9.5
+AKASH MADHWAL,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1045.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,8.5
+KUMAR KARTIKEYA SINGH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1015.png,2025,3,0,1,1,1.00,1,100.00,0,0,0,0,0,0,2025,3,36,56,2,1w21,28.00,9.33,18.00,0,0,Not Found
+TUSHAR DESHPANDE,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/539.png,2025,8,3,7,3,7.00,8,87.50,0,0,0,0,1,0,2025,8,144,270,6,3w44,45.00,11.25,24.00,0,0,9
+FAZALHAQ FAROOQI,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1011.png,2025,3,1,2,2*,-,2,100.00,0,0,0,0,0,0,2025,3,60,117,0,0w30,-,11.70,-,0,0,8
+KWENA MAPHAKA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/801.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,8
+ASHOK SHARMA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/980.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+SANDEEP SHARMA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/220.png,2025,9,1,6,6*,-,5,120.00,0,0,0,0,1,0,2025,9,195,328,8,2w21,41.00,10.09,24.38,0,0,8.5
+RAJAT PATIDAR,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/597.png,2025,10,0,222,64,27.75,149,148.99,0,2,19,10,2,0,2025,10,0,0,0,-,-,-,-,0,0,9.5
+VIRAT KOHLI,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/2.png,2025,10,3,392,73*,65.33,272,144.12,0,5,35,13,3,0,2025,10,0,0,0,-,-,-,-,0,0,10.5
+PHIL SALT,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/1220.png,2025,9,0,239,65,26.56,142,168.31,0,2,30,13,6,0,2025,9,0,0,0,-,-,-,-,0,0,10
+JITESH SHARMA,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1000.png,2025,10,3,121,40*,30.25,82,147.56,0,0,12,7,13,1,2025,10,0,0,0,-,-,-,-,0,0,8.5
+DEVDUTT PADIKKAL,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/200.png,2025,8,1,230,61,32.86,147,156.46,0,2,20,13,1,0,2025,8,0,0,0,-,-,-,-,0,0,8
+SWASTIK CHHIKARA,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3102.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,Not Found
+LIAM LIVINGSTONE,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/183.png,2025,7,1,87,54,17.40,68,127.94,0,1,4,7,3,0,2025,7,54,76,2,2w28,38.00,8.44,27.00,0,0,9
+KRUNAL PANDYA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/17.png,2025,10,0,24,18,6.00,28,85.71,0,0,2,0,2,0,2025,10,186,267,13,4w45,20.54,8.61,14.31,1,0,8.5
+SWAPNIL SINGH,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1483.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+TIM DAVID,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/636.png,2025,10,4,165,50*,82.50,88,187.50,0,1,13,13,7,0,2025,10,0,0,0,-,-,-,-,0,0,8
+ROMARIO SHEPHERD,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/371.png,2025,3,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,3,18,33,1,1w18,33.00,11.00,18.00,0,0,8
+MANOJ BHANDAGE,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1485.png,2025,1,0,1,1,1.00,4,25.00,0,0,0,0,1,0,2025,1,0,0,0,-,-,-,-,0,0,7
+JACOB BETHELL,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/869.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,8.5
+JOSH HAZLEWOOD,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/36.png,2025,10,1,0,0*,-,1,0.00,0,0,0,0,0,0,2025,10,215,294,18,4w33,16.33,8.20,11.94,1,0,8.5
+RASIKH DAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/172.png,2025,2,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,2,36,70,1,1w35,70.00,11.67,36.00,0,0,Not Found
+SUYASH SHARMA,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1932.png,2025,9,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,9,204,275,4,2w26,68.75,8.09,51.00,0,0,7.5
+BHUVNESHWAR KUMAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/15.png,2025,9,3,10,8,10.00,21,47.62,0,0,1,0,2,0,2025,9,192,276,9,2w26,30.67,8.63,21.33,0,0,9
+NUWAN THUSHARA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/813.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,9
+LUNGISANI NGIDI,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/99.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,Not Found
+ABHINANDAN SINGH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3574.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+MOHIT RATHEE,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1935.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+YASH DAYAL,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/978.png,2025,10,0,0,0,0.00,1,0.00,0,0,0,0,1,0,2025,10,186,286,9,2w18,31.78,9.23,20.67,0,0,8
+ISHAN KISHAN,WK-Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/164.png,2025,9,2,183,106*,26.14,119,153.78,1,0,19,7,3,0,2025,9,1,4,0,0w4,-,24.00,-,0,0,9
+ATHARVA TAIDE,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1001.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,8
+ABHINAV MANOHAR,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/974.png,2025,5,0,49,43,12.25,50,98.00,0,0,2,3,3,0,2025,5,0,0,0,-,-,-,-,0,0,7.5
+ANIKET VERMA,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3576.png,2025,9,1,190,74,27.14,118,161.02,0,1,9,16,4,0,2025,9,0,0,0,-,-,-,-,0,0,7
+SACHIN BABY,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/599.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7.5
+SMARAN RAVICHANDRAN,Batter,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3752.png,,,,,,,,,,,,,,,,,,,,N/A,,,,,,7
+HEINRICH KLAASEN,WK-Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/202.png,2025,9,1,288,71,36.00,184,156.52,0,1,28,12,5,0,2025,9,0,0,0,-,-,-,-,0,0,9.5
+TRAVIS HEAD,Batter,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/37.png,2025,9,0,261,67,29.00,164,159.15,0,2,37,9,3,0,2025,9,0,0,0,-,-,-,-,0,0,10.5
+HARSHAL PATEL,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/114.png,2025,8,2,21,12*,10.50,26,80.77,0,0,0,0,2,0,2025,8,162,244,13,4w28,18.77,9.04,12.46,2,0,8.5
+KAMINDU MENDIS,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/627.png,2025,3,1,60,32*,30.00,47,127.66,0,0,4,2,1,0,2025,3,30,42,2,1w4,21.00,8.40,15.00,0,0,8
+WIAAN MULDER,All-Rounder,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/630.png,2025,1,0,9,9,9.00,11,81.82,0,0,1,0,1,0,2025,1,6,16,0,0w16,-,16.00,-,0,0,8.5
+ABHISHEK SHARMA,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/212.png,2025,9,0,240,141,26.67,133,180.45,1,0,31,11,5,0,2025,9,48,82,0,0w17,-,10.25,-,0,0,10
+NITISH KUMAR REDDY,All-Rounder,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/1944.png,2025,9,1,152,32,21.71,134,113.43,0,0,14,2,2,0,2025,9,0,0,0,-,-,-,-,0,0,9
+PAT CUMMINS,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/33.png,2025,9,3,65,22*,16.25,42,154.76,0,0,5,5,4,0,2025,9,190,304,9,3w26,33.78,9.60,21.11,0,0,10
+MOHAMMAD SHAMI,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/47.png,2025,8,3,10,6*,10.00,10,100.00,0,0,1,0,2,0,2025,8,162,289,6,2w28,48.17,10.70,27.00,0,0,Not Found
+RAHUL CHAHAR,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/171.png,2025,1,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,1,6,9,0,0w9,-,9.00,-,0,0,8
+SIMARJEET SINGH,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/622.png,2025,4,1,3,3*,1.50,7,42.86,0,0,0,0,0,0,2025,4,60,141,2,2w46,70.50,14.10,30.00,0,0,7.5
+ZEESHAN ANSARI,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/3575.png,2025,7,0,0,0,-,N/A,-,0,0,0,0,4,0,2025,7,149,239,5,3w42,47.80,9.62,29.80,0,0,7
+JAYDEV UNADKAT,Bowler,false,https://documents.iplt20.com/ipl/IPLHeadshot2025/180.png,2025,3,0,0,0,-,N/A,-,0,0,0,0,1,0,2025,3,47,62,3,2w21,20.67,7.91,15.67,0,0,8
+ESHAN MALINGA,Bowler,true,https://documents.iplt20.com/ipl/IPLHeadshot2025/3339.png,2025,3,0,0,0,-,N/A,-,0,0,0,0,0,0,2025,3,66,114,5,2w36,22.80,10.36,13.20,0,0,7.5
